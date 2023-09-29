@@ -27,7 +27,7 @@ main .personagem .imagem{
 
 }
 .conteudo .nome-personagem{
-    background-color: green;
+    
     color:white;
     font-size: 48px;
     font-family: "secular-one";
@@ -35,7 +35,7 @@ main .personagem .imagem{
     margin-bottom: 20px;
 }
 
-,.conteudo .descricao{
+.conteudo .descricao{
     background-color: blue;
     color: white;
     
