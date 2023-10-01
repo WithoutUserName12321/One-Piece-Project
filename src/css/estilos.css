@@ -36,7 +36,8 @@ main .personagem .imagem{
 }
 
 .conteudo .descricao{
-    background-color: blue;
     color: white;
+    font-family: "Rubik"
+    font-size: 16px;
     
 }
